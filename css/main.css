@@ -52,3 +52,35 @@ body {
 	width: 70%;
 	top: 0;
 }
+
+.footnote {
+	font-size: 14pt;
+	padding-top: 5px;
+	color: #CB3F17
+}
+
+.header-1 {
+	font-size: 35pt;
+	color: #CB3F17;
+	margin-top: 50px;
+}
+
+.header-2 {
+	font-size: 28pt;
+	margin-top: 20px; 
+	color: #CB3F17
+}
+
+.content {
+	font-size: 16pt;
+	margin-top: 10px;
+	color: #CB3F17
+}
+
+.content-sidebar {
+	width: 70%;
+}
+
+.media-sidebar {
+	width: 30%;
+}
